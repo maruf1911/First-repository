@@ -1,5 +1,5 @@
 # First-repository
 This is my first repository.
 <br>
-Author - Maruf
+Author - Maruf(comilla polytechnic institute)
 
